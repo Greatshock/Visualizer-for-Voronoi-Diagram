@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Voronoi-Diagram-Visualizer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Voronoi_Diagram_Visualizer_jar</output-path>
+    <root id="archive" name="Voronoi-Diagram-Visualizer.jar">
+      <element id="module-output" name="Voronoi-Diagram-Visualizer" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
